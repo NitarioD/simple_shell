@@ -40,7 +40,7 @@ $ help <builtin command>
 
 ### Authors
 ---
-[Sunday gad](https://github.com/sunday-gad)
+[Odisi Anthony Enebimowei](https://github.com/richtea881)
 -
-[Happiness kumuel](https://github.com/)
+[Jola Adunola](https://github.com/NitarioD)
 -
